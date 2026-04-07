@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Form</title>
+    </head>
+    <body>
+        <!--1 shi tapsirma-->
+        <form>
+            <label>Atiniz:</label> 
+            <input type="text">
+
+            <br> <br>
+
+            <label>Jasiniz:</label> 
+            <input type="number">
+
+            <br> <br>
+
+            
+            <label>Jinisiniz:</label>
+
+            <input type="radio" name="jinsi">
+            <label>Erkek</label>
+            <input type="radio" name="jinsi">
+            <label>Hayal</label>
+
+            <br><br>
+
+            <button>Dizimnen otiw</button>
+            <button>Tazalaw</button>
+        </form>
+    </body>
+</html>
