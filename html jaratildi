@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Form</title>
+    </head>
+    <body>
+        <!--1 shi tapsirma-->
+        <form>
+            <label>Login:</label> <br>
+            <input type="text">
+
+            <br> <br>
+
+            <label>Parol:</label> <br>
+            <input type="text">
+            <br> <br>
+            <button>Kiriw</button>
+        </form>
+    </body>
+</html>
