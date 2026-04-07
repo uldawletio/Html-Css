@@ -1,1 +1,23 @@
+<!DOCTYPE html>
 
+<html>
+    <head>
+        <title>Forms tapsirma</title>
+    </head>
+    <body>
+
+        <!--2 shi tapsirma-->
+        <form>
+            <h4>Hazir isleymiz yamasa oqiymiz?</h4>
+
+            <input type="radio" name="status" id="oqiwshi">
+            <lebel for="oqiwshi">Oqiwshi</lebel>
+
+            <input type="radio" name="status" id="student">
+            <lebel for="student">Student</lebel>
+
+            <input type="radio" name="status" id="jumisshi">
+            <lebel for="jumisshi">Jumisshi</lebel>
+        </form>
+    </body>
+</html>
